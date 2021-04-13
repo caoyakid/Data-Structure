@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1617850605 source:d:\c++\資料結構\hw1\polynomial\main.cpp
+	<iostream>
+	<cmath>
+	"Polynomial.h"
+
+1617850047 d:\c++\資料結構\hw1\polynomial\polynomial.h
+
