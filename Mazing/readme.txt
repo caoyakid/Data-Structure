@@ -9,4 +9,4 @@ then use fstream to read the file and get the maze(array)
 
 Noticed:
 If you use the new maze.txt, then you should resize the #define row = ?, col = ?
-in main,cpp in case that you get the wrong maze.
+in main.cpp in case that you get the wrong maze.
